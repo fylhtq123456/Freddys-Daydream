@@ -1,0 +1,395 @@
+All Characters
+Default Voice Effects: Audacity -> "Effects" tab -> Equalization (Curve: Telephone) x2
+Always use the "Amplify" Audacity effect after using audio-altering effects and before exporting the voice line (ignore for the Withered characters' noise tracks)
+Always export voice lines as OGGs with a quality of 0
+
+
+"Canon" Voices (Offical Games)
+
+Freddy/Toy Freddy
+Text to Speech: ImTranslator (text-to-speech.imtranslator.net) -> Language: English US (male)
+Voice Effects: Default
+
+Bonnie
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Australian -> Voice: Russell
+Voice Effects: Default
+
+Chica
+Text to Speech: ImTranslator (text-to-speech.imtranslator.net) -> Language: English US (female)
+Voice Effects: Default
+
+Foxy
+Text to Speech: LumenVox (lumenvox.com/tts-demonstration) -> Language: American English -> Voice: Male (Andrew)
+Voice Effects: Default
+
+Golden Freddy
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Welsh -> Voice: Geraint
+Voice Effects: Default -> Change Pitch (-25%) -> Change Tempo (+50%)
+
+Withered Freddy
+Text to Speech: ImTranslator (text-to-speech.imtranslator.net) -> Language: English US (male)
+Voice Effects: Default -> Random Pitch Changes to small sections of audio -> Random Repeats to small sections of audio -> "Tracks" tab -> Add New -> Stereo Track ->
+"Generate" tab -> Noise (White with 0.1 amplitude) -> Equalization (Curve: Telephone) x2 on noise track
+
+Withered Bonnie
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Australian -> Voice: Russell
+Voice Effects: Same as Withered Freddy
+
+Withered Chica
+Text to Speech: ImTranslator (text-to-speech.imtranslator.net) -> Language: English US (female)
+Voice Effects: Same as Withered Freddy
+
+Withered Foxy
+Text to Speech: LumenVox (lumenvox.com/tts-demonstration) -> Language: American English -> Voice: Male (Andrew)
+Voice Effects: Same as Withered Freddy
+
+Withered Golden Freddy
+Text to Speech: TextAloud (textaloud.com) -> Language: English, British -> Voice: Brian
+Voice Effects: Same as Withered Freddy
+
+Toy Bonnie
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Australian -> Voice: Russell
+Voice Effects: Default -> 150% Pitch in RPG Maker
+
+Toy Chica
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Australian -> Voice: Salli
+Voice Effects: Default
+
+Toy Foxy/Mangle
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Australian -> Voice: Kendra
+Voice Effects: Default
+
+The Puppet (yes, it DOES technically have a voice actor, it can't make the "o o o o o o o o" sound anymore though)
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Welsh -> Voice: Geraint
+Voice Effects: Default
+
+Fredbear
+Text to Speech: TextAloud (textaloud.com) -> Language: English, British -> Voice: Brian
+Voice Effects: Default
+
+Springtrap/Spring Bonnie
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Daniel (UK) -> Effect: Pitch -> Level: High
+Voice Effects: Default
+
+Phantom Freddy
+Text to Speech: ImTranslator (text-to-speech.imtranslator.net) -> Language: English US (male)
+Voice Effects: Default -> Add silence to end of track if necessary -> Reverb (Vocal II Preset)
+
+Phantom Bonnie
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Australian -> Voice: Russell
+Voice Effects: Same as Phantom Freddy
+
+Phantom Chica
+Text to Speech: ImTranslator (text-to-speech.imtranslator.net) -> Language: English US (female)
+Voice Effects: Same as Phantom Freddy
+
+Phantom Foxy
+Text to Speech: LumenVox (lumenvox.com/tts-demonstration) -> Language: American English -> Voice: Male (Andrew)
+Voice Effects: Same as Phantom Freddy
+
+Phantom Mangle
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Australian -> Voice: Kendra
+Voice Effects: Same as Phantom Freddy
+
+Phantom Puppet
+Text to Speech: Text to Speech: TextAloud (textaloud.com) -> Language: English, Welsh -> Voice: Geraint
+Voice Effects: Same as Phantom Freddy
+
+Endoskeleton Prime
+Text to Speech: FL Studio (image-line.com/flstudio) -> "Add" tab -> Speech -> Personality: Robotoid -> Style: Monotone -> Mode: Normal
+Voice Effects: Default
+
+Splash Woman
+Text to Speech: TextAloud (textaloud.com) -> Language: English, American -> Voice: Ivy
+Voice Effects: Default
+
+Chipper
+Text to Speech: LumenVox (lumenvox.com/tts-demonstration) -> Language: American English -> Voice: Male (Alvin)
+Voice Effects: Default
+
+Candy Cadet
+Text to Speech: TextAloud (textaloud.com) -> Language: English, British -> Voice: Brian
+Voice Effects: Default -> ??? (if someone could let me know the exact effects used for his voice I'd be grateful)
+
+Lemonade Clown
+Text to Speech: TextAloud (textaloud.com) -> Language: Russian -> Voice: Maxim
+Voice Effects: Default
+
+Fruit Punch Clown
+Text to Speech: TextAloud (textaloud.com) -> Language: German -> Voice: Hans
+Voice Effects: Default
+
+
+"Soft-Canon" Voices (Generally Accepted Fangames)
+
+Shadow Freddy
+Text to Speech: ImTranslator (text-to-speech.imtranslator.net) -> Language: English US (male)
+Voice Effects: Default -> ["Tracks" tab -> Add New -> Stereo Track] x2 -> Copy/paste audio into new tracks -> Highlight 1st Track -> "Effects" tab ->
+Change Speed (-12.5%) -> Highlight 2nd Track -> Change Speed (-25%) -> Highlight 3rd Track -> Change Speed (-50%)
+Optional After-Effects: Combine Tracks -> Add silence to end of track if necessary -> Echo (0.5 Delay Time, 0.25 Decay Factor) -> Reverb (Vocal II Preset)
+
+Shadow Bonnie
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Australian -> Voice: Russell
+Voice Effects: Same as Shadow Freddy
+
+Nightmare Freddy
+Text to Speech: ImTranslator (text-to-speech.imtranslator.net) -> Language: English US (male)
+Voice Effects: Default -> Change Pitch (-25%) -> Paulstretch (1.0 Stretch Factor, 0.1 Time Resolution)
+
+Nightmare Bonnie
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Australian -> Voice: Russell
+Voice Effects: Same as Nightmare Freddy
+
+Nightmare Chica
+Text to Speech: ImTranslator (text-to-speech.imtranslator.net) -> Language: English US (female)
+Voice Effects: Same as Nightmare Freddy
+
+Nightmare Foxy
+Text to Speech: LumenVox (lumenvox.com/tts-demonstration) -> Language: American English -> Voice: Male (Andrew)
+Voice Effects: Same as Nightmare Freddy
+
+Nightmare Mangle
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Australian -> Voice: Kendra
+Voice Effects: Same as Nightmare Freddy
+
+Nightmare Fredbear
+Text to Speech: TextAloud (textaloud.com) -> Language: English, British -> Voice: Brian
+Voice Effects: Same as Nightmare Freddy
+
+Plushtrap/Lockbird
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Daniel (UK) -> Effect: Pitch -> Level: Higher
+Voice Effects: Default
+
+Nightmare
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Dave (US)
+Voice Effects: Default -> Change Pitch (-25%) -> Add silence to end of track if necessary -> Reverb (Vocal II Preset)
+
+Jack-O-Bonnie
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Australian -> Voice: Russell
+Voice Effects: Same as Nightmare
+
+Jack-O-Chica
+Text to Speech: ImTranslator (text-to-speech.imtranslator.net) -> Language: English US (female)
+Voice Effects: Same as Nightmare
+
+Nightmarionne
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Welsh -> Voice: Geraint
+Voice Effects: ???
+
+Baby
+Text to Speech: TextAloud (textaloud.com) -> Language: English, British -> Voice: Emma
+Voice Effects: Default
+
+Ballora
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Elizabeth (UK)
+Voice Effects: Default -> Echo (0.02 Delay Time, 0.4 Decay Factor)
+
+Minireena
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Elizabeth (UK)
+Voice Effects: Same as Ballora -> 150% Pitch in RPG Maker
+
+Funtime Freddy
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Paul (US)
+Voice Effects: Same as Ballora
+
+Handpuppet Bonnie
+Text to Speech: VoiceForge (voiceforge.com/demo) -> Voice: Wiseguy
+Voice Effects: Same as Ballora -> 125% Pitch in RPG Maker (Optional)
+
+Funtime Chica
+Text to Speech (Sister Location): TextAloud (textaloud.com) -> Language: English, American -> Voice: Ivy
+Text to Speech (Ultimate): VoiceForge (voiceforge.com/demo) -> Voice: Vixen
+Voice Effects: Same as Ballora
+
+Funtime Foxy
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Ashley (US)
+Voice Effects: Same as Ballora
+
+Ennard
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Steven (US) -> Effect: Phase
+Voice Effects: Same as Ballora
+
+Bonnet
+Text to Speech: TextAloud (textaloud.com) -> Language: English, Australian -> Voice: Nicole
+Voice Effects: Same as Ballora
+
+Lolbit
+Text to Speech: TextAloud (textaloud.com) -> Language: Spanish, American -> Voice: Penelope (spell out words phonetically for better pronounciation)
+Voice Effects: Same as Ballora
+
+Bidybab
+Text to Speech: TextAloud (textaloud.com) -> Language: English, American -> Voice: Justin
+Voice Effects: Same as Ballora -> Change Pitch (+25%)
+
+Yenndo
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Paul (US) -> Effect: Flanger
+Voice Effects: Same as Ballora -> Change Pitch (-25%) -> Change Tempo (+50%)
+
+Helpy
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Paul (US)
+Voice Effects: Same as Ballora -> 150% Pitch in RPG Maker
+
+Molten Freddy
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Paul (US) -> Effect: Phase
+Voice Effects: Same as Ballora -> Change Pitch (-25%) -> Random Repeats to small sections of audio
+
+Scrap Baby
+Text to Speech: TextAloud (textaloud.com) -> Language: English, British -> Voice: Emma
+Voice Effects: Default -> Random Repeats to small sections of audio -> "Tracks" tab -> Add New -> Stereo Track -> Copy/paste audio into new track ->
+Highlight new track -> Change Pitch (-50%)
+
+Scraptrap
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Daniel (UK)
+Voice Effects: Default
+
+Lefty
+Text to Speech: ResponsiveVoice (responsivevoice.org) -> Language: UK English Male
+Voice Effects: Default
+
+Rockstar Freddy
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Paul (US)
+Voice Effects: Default
+
+Rockstar Bonnie
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Alan (Australian)
+Voice Effects: Default
+
+Rockstar Chica
+Text to Speech: VoiceForge (voiceforge.com/demo) -> Voice: Belle
+Voice Effects: Default
+
+Rockstar Foxy
+Text to Speech: VoiceForge (voiceforge.com/demo) -> Voice: Evil Genius
+Voice Effects: Default
+
+Nedd Bear
+Text to Speech: Acapela Group (acapela-group.com/demos) -> Language: English (USA) -> Voice: Micah
+Voice Effects: Default
+
+Mr. Hippo
+Text to Speech: Acapela Group (acapela-group.com/demos) -> Language: English (USA) -> Voice: WillOldMan
+Voice Effects: Default -> Change Tempo (+25%)
+
+Happy Frog
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Beth (US)
+Voice Effects: Default -> Change Speed (+25%)
+
+Pigpatch
+Text to Speech: VoiceForge (voiceforge.com/demo) -> Voice: Dallas
+Voice Effects: Default
+
+Orville Elephant
+Text to Speech: Acapela Group (acapela-group.com/demos) -> Language: English (UK) -> Voice: PeterHappy
+Voice Effects: Default
+
+El Chip
+Text to Speech: TextAloud (textaloud.com) -> Language: Spanish, American -> Voice: Miguel
+Voice Effects: Default
+
+Security Puppet
+Text to Speech: Microsoft Speech API (tetyys.com/SAPI4) -> Voice: Sam
+Voice Effects: Default
+
+Purple Guy
+Text to Speech: VoiceForge (voiceforge.com/demo) -> Voice: Wiseguy
+Voice Effects: Default
+
+90's Endoskeleton/Endoskeleton-01
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Steven (US) -> Effect: Bullhorn
+Voice Effects: Default
+
+80's Endoskeleton/Endoskeleton-02
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Steven (US) -> Effect: Flanger
+Voice Effects: Default
+
+Phantom Endoskeleton
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Steven (US) -> Effect: Reverb
+Voice Effects: Default
+
+Endoplush
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Steven (US) -> Effect: Pitch -> Level: Higher
+Voice Effects: Default
+
+Mendo
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Steven (US) -> Effect: Speed -> Level: Slow
+Voice Effects: Default
+
+Endoskeleton of Rock
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Alan (Australian)
+Voice Effects: Default -> Change Speed (-20%)
+
+Frooby/Party Hat
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Paul (US) -> Effect: Pitch -> Level: High
+Voice Effects: Default
+
+Streamer/Party Blower
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Hugh (UK)
+Voice Effects: Default
+
+Phantom Hat
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: James (US) -> Effect: Pitch -> Level: Low
+Voice Effects: Default -> Add silence to end of track if necessary -> Reverb (Vocal II Preset)
+
+Bobby
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Alan (Australian) -> Effect: Pitch -> Level: Higher
+Voice Effects: Default
+
+Charla
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Samantha (US) -> Effect: Pitch -> Level: High
+Voice Effects: Default
+
+Cocksy
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: James (US) -> Effect: Pitch -> Level: High
+Voice Effects: Default
+
+Gooby Frooby
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Hugh (UK) -> Effect: Pitch -> Level: High
+Voice Effects: Default
+
+Ass
+Text to Speech: FastHub (fasthub.net) -> Language: English (United States) -> Voice: Male7 (I don't know the exact effects)
+Voice Effects: Default
+
+Boblet
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Alan (Australian) -> Effect: Pitch -> Level: Highest
+Voice Effects: Default -> 150% Pitch in RPG Maker
+
+Chample
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Fiona (Scottish) -> Effect: Pitch -> Level: High
+Voice Effects: Default
+
+Mabel
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Julie (US) -> Effect: Pitch -> Level: Higher
+Voice Effects: Default
+
+Pamela
+Text to Speech: Acapela Group (acapela-group.com/demos) -> Language: English (USA) -> Voice: WillFromAfar
+Voice Effects: Default
+
+Frubgy
+Text to Speech: Text 2 Speech (text2speech.org) -> Voice: Male US
+Voice Effects: Default
+
+Benny
+Text to Speech: iSpeech (ispeech.org) -> Language: UK English
+Voice Effects: Default
+
+Fokie
+Text to Speech: iSpeech (ispeech.org) -> Language: US English
+Voice Effects: Default
+
+Woofy
+Text to Speech: VoiceForge (voiceforge.com/demo) -> Voice: Dog
+Voice Effects: Default
+
+Gridlock
+Text to Speech: Acapela Group (acapela-group.com/demos) -> Language: English (USA) -> Voice: WillBadGuy
+Voice Effects: Default -> Change Speed (-25%) -> Add silence to end of track if necessary -> Reverb (Vocal II Preset)
+
+Funnyman
+Text to Speech: Moonbase Alpha Text to Speech
+Voice Effects: Default
+
+Breadbear
+Text to Speech: TextAloud (textaloud.com) -> Language: English, British -> Voice: Brian
+Voice Effects: Default -> 75% Pitch in RPG Maker

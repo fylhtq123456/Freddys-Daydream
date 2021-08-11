@@ -1,0 +1,66 @@
+Default Voice Effects: Audacity -> "Effects" tab -> Equalization (Curve: Telephone) x2
+Always use the "Amplify" Audacity effect after using audio-altering effects and before exporting the voice line
+
+Ballora
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Elizabeth (UK)
+Voice Effects: Default -> Echo (0.02 Delay Time, 0.4 Decay Factor)
+
+Yenndo
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Paul (US) -> Effect: Flanger
+Voice Effects: Same as Ballora -> Change Pitch (-25%) -> Change Tempo (+50%)
+
+Orville Elephant
+Text to Speech: Acapela Group (acapela-group.com/demos) -> Language: English (UK) -> Voice: PeterHappy
+Voice Effects: Default
+
+Rockstar Freddy
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Paul (US)
+Voice Effects: Default
+
+Purple Guy
+Text to Speech: VoiceForge (voiceforge.com/demo) -> Voice: Wiseguy
+Voice Effects: Default
+
+Frooby/Party Hat
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Paul (US) -> Effect: Pitch -> Level: High
+Voice Effects: Default
+
+Ass
+Text to Speech: FastHub (fasthub.net) -> Language: English (United States) -> Voice: Male7 (I don't know the exact effects)
+Voice Effects: Default
+
+Breadbear
+Text to Speech: TextAloud (textaloud.com) -> Language: English, British -> Voice: Brian
+Voice Effects: Default -> 75% Pitch in RPG Maker
+
+Gooby Frooby
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Hugh (UK) -> Effect: Pitch -> Level: High
+Voice Effects: Default
+
+Phantom Endoskeleton
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Steven (US) -> Effect: Reverb
+Voice Effects: Default
+
+Security Puppet
+Text to Speech: Microsoft Speech API (tetyys.com/SAPI4) -> Voice: Sam
+Voice Effects: Default
+
+Ennard
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Steven (US) -> Effect: Phase
+Voice Effects: Same as Ballora
+
+Funtime Freddy
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Paul (US)
+Voice Effects: Same as Ballora
+
+Funtime Foxy
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Ashley (US)
+Voice Effects: Same as Ballora
+
+Nightmare
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Dave (US)
+Voice Effects: Default -> Change Pitch (-25%) -> Add silence to end of track if necessary -> Reverb (Vocal II Preset)
+
+Plushtrap/Lockbird
+Text to Speech: Oddcast (ttsdemo.com) -> Language: English -> Voice: Daniel (UK) -> Effect: Pitch -> Level: Higher
+Voice Effects: Default
