@@ -1,4 +1,22 @@
-# List of plans and ideas
+# Fuckboy's Daydream - Night XRR
+###### previously Yenndo's Battle For Recognition
+- Project is based on RPG Maker VX Ace.
+- This is Fangame of Five Nights at Fuckboy's.
+- Story follows Yenndo and Co. on adventure around his dimension to achieve power.
+- Game will include following things
+
+  - Characters you might never seen have game
+  - Reused assets (I lost track where i got 90% of them)
+  - Interesting mechanics
+  - Story line... maybe?
+  - Same characters but completely different
+  - Stat boosts hunting
+  - Party Hat Family Tree
+  - Bibybab Inc.
+  - Expensive items
+
+
+## List of plans and ideas
 Object higher on the list have higher priority
 
 ## Plans for next update
