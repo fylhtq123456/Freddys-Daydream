@@ -41,3 +41,6 @@ Options with numbers are important while rest is not as important
 
 ## Ideas
 Leave your ideas below.
+
+Hello yes how about adding a open world moment...
+what do you mean it's already here?
